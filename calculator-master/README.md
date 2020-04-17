@@ -9,7 +9,7 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 Try It
 ---
 
-[rajeshjaava.github.io/calculator](https://rajeshjaava.github.io/calculator/)
+[rajeshjaava.github.io/calculator](http://rajeshjaava.github.io/ReactJs/calculator-master/)
 
 
 
